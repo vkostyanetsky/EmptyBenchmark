@@ -1,6 +1,6 @@
 # IsEmpty or ValueIsFilled()
 
- [![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)
+[![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)
 
 This data processor compares which way to check a reference for empty value works faster:
 
